@@ -1,0 +1,27 @@
+{
+  "mainnet": [
+    {
+      "peer_id": "",
+      "public_ip": "",
+      "port": 20000,
+      "region": "",
+      "status": ""
+    },
+    {
+      "peer_id": "",
+      "public_ip": "",
+      "port": 20000,
+      "region": "",
+      "status": ""
+    }
+  ],
+  "testnet": [
+    {
+      "peer_id": "",
+      "public_ip": "",
+      "port": 20000,
+      "region": "",
+      "status": ""
+    }
+  ]
+}
