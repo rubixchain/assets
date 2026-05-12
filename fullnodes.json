@@ -1,27 +1,24 @@
 {
   "mainnet": [
     {
-      "peer_id": "",
-      "public_ip": "",
+      "peer_id": "12D3KooWALf2goup9ipSEKz8Yv7Zyjfnag9eLfu2JxXm3M13gfyh",
+      "public_ip": "74.249.188.188",
       "port": 20000,
-      "region": "",
-      "status": ""
+      "status": "Active"
     },
     {
-      "peer_id": "",
-      "public_ip": "",
+      "peer_id": "12D3KooWBMfEkSmK2diq8bn5wy8TUL4vF7yqFyB4DJJo2tA3FTaC",
+      "public_ip": "172.206.26.49",
       "port": 20000,
-      "region": "",
-      "status": ""
+      "status": "Active"
     }
   ],
   "testnet": [
     {
-      "peer_id": "",
-      "public_ip": "",
+      "peer_id": "12D3KooWNENnZauUGwwPQAJb6gycBADkBYRt2CM9npHcm7mDv9z3",
+      "public_ip": "20.75.53.31",
       "port": 20000,
-      "region": "",
-      "status": ""
+      "status": "Active"
     }
   ]
 }
