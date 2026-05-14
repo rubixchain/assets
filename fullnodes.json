@@ -15,8 +15,8 @@
   ],
   "testnet": [
     {
-      "peer_id": "12D3KooWNENnZauUGwwPQAJb6gycBADkBYRt2CM9npHcm7mDv9z3",
-      "public_ip": "20.75.53.31",
+      "peer_id": "12D3KooWDkzUuUkMcvxG5vzBGFvu64gi2hHfjNcxrSfvUG9mGLZx",
+      "public_ip": " 192.168.1.114",
       "port": 20000,
       "status": "Active"
     }
